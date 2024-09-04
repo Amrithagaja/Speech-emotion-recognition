@@ -1,1 +1,1 @@
-# Sppech-emotion-recognition
+# Speech-emotion-recognition
